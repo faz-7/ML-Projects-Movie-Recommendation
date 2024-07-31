@@ -61,4 +61,3 @@ This movie recommendation system demonstrates the effectiveness of collaborative
 1. Clone the repository.
 2. Install the required packages.
 3. Run the script to train the model and generate recommendations.
-```
